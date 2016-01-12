@@ -6,7 +6,7 @@ Restify Middleware for Hosting Falcor Data Sources.
 
 Minimalistic example
 
-```
+```javascript
 'use strict';
 
 var bunyan = require('bunyan');
